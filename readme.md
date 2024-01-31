@@ -1,3 +1,7 @@
+# Readme.md
+
+This is a fork of [terkelg](https://github.com/terkelg/terkelg) who did this amazing thing, and I had to use it:))
+
 <picture>
 	<source
 		media="(prefers-color-scheme: dark)"
@@ -52,7 +56,7 @@
 	/>
 	<img
 		src="https://readme.yn84b7rtsc.workers.dev/?section=main&theme=light"
-		height="290"
+		height="300"
 		width="100%"
 		align="left"
 	/>
